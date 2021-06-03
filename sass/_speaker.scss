@@ -1,0 +1,133 @@
+
+
+.speaker{
+
+    padding-bottom: 7rem;
+    
+
+    &__single{
+
+        text-align: center;
+
+        &:hover{
+            text-decoration: none;
+        }
+
+    }
+
+    &__img{
+        width: 18rem;
+        min-height: 18rem;
+        border-radius: 50%;
+        background-image: url(../img/Ica_Summit_WEB_1-11.jpg);
+        background-size: 150%;
+        background-position: center top;
+        background-repeat: no-repeat;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+        box-shadow: -10px 14px 20px 4px #B6DAF5;
+    }
+
+    &__name{
+        font-weight: 800;
+        text-transform: capitalize;
+        font-size: 2rem;
+        color: #161615;
+        margin-bottom: 0;
+    }
+
+    &__position{
+        margin-bottom: 0;
+        color: #000 !important;
+    }
+
+    &__company{
+        font-size: 1.8rem;
+        color: #0088D2; 
+    }
+
+    &__btn{
+        font-size: 1.6rem;
+        color: #0088D2;
+        border: 1px solid #0088D2;
+        border-radius: 5px;
+        padding: .6rem 2rem;
+        margin-top: 2rem;
+
+        &:hover{
+            background-color:#0088D2 ;
+            color: #fff;
+        }
+    }
+}
+
+
+// Modal
+
+.modal{
+
+
+    &-header{
+        border: none;
+        padding: 0 !important;
+
+        button{
+            height: 3rem;
+            width: 3rem;
+            border-radius: 50%;
+            border: 2px solid #DADAD9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-right: 0px !important;
+            margin-top: 15px !important;
+
+            span{
+                color: #DADAD9;
+                font-size: 3rem;
+            }
+        }
+    }
+
+    &__time{
+        border-top: 2px solid #0088D2;
+        border-bottom: 2px solid #0088D2;
+        padding: .3rem 0;
+    }
+
+    &__text{
+
+    }
+
+    &-content{
+        padding-bottom: 2rem;
+        padding-right: 2rem;
+
+        .speaker__img{
+            width: 15rem;
+            min-height: 15rem;
+        }
+
+        .speaker__company{
+            font-size: 1.4rem;
+        }
+
+
+        .description {
+            font-size: 1.4rem;
+        }
+
+        
+        .speaker__position{
+            font-size: 1.1rem;
+        }
+    }
+
+    &__img{
+        max-width: 10rem;
+        width: 100%;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+}

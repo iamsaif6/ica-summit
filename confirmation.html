@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet"> 
+
+    <!-- font-awesome  -->
+    <script src="https://kit.fontawesome.com/bdc84e071b.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/nice-select.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/confirmation.css">
+</head>
+<body>
+
+
+      <!-- Confirmation Form -->
+
+      <section class="confirmation-wrap">
+            <div class="container">
+                  <h2 class="confirmation__header">In order to confirm your participation ar the ICA Summit, <br> <span>please fill in this form</span></h2>
+                  <form action="">
+                        <div class="row">
+                              <div class="col-md-12 col-lg-8">
+                                    <div class="row">
+                                          <div class="col-md-6">
+                                                <select class="form-control" name="Select" id="">
+                                                      <option selected value="">Select</option>
+                                                      <option  value="">Select</option>
+                                                      <option  value="">Select</option>
+                                                      <option  value="">Select</option>
+                                                </select>
+                                          </div>
+                                    </div>
+
+                                    <div class="row">
+                                          <div class="col-md-6">
+                                                <input class="form-control" type="text" placeholder="First Name">
+                                          </div>
+                                          <div class="col-md-6">
+                                                <input class="form-control" type="text" placeholder="Last Name">
+                                          </div>
+                                          <div class="col-md-6">
+                                                <input class="form-control" type="text" placeholder="Company Name">
+                                          </div>
+                                          <div class="col-md-6">
+                                                <input class="form-control" type="text" placeholder="Job Title">
+                                          </div>
+                                          <div class="col-md-6">
+                                                <input class="form-control" type="email" placeholder="Email">
+                                          </div>
+                                          <div class="col-md-6">
+                                                <input class="form-control" type="text" placeholder="Phone Number">
+                                          </div>
+                                          <div class="col-md-6">
+                                                <div class="form-group">
+                                                      <input class="form-control" type="text" placeholder="Please Add Company Logo">
+                                                      <input id="defaultBtn" class="form-control" type="file">
+                                                      <button onclick="uploadActivate()" id="custombtn" class="upload"><i class="fas fa-paperclip"></i></button>
+                                                </div>
+                                          </div>
+                                          <div class="col-md-6">
+                                                <div class="form-group">
+                                                      <input class="form-control" type="text" placeholder="Please Add Company Logo">
+                                                      <input id="defaultBtn" class="form-control" type="file">
+                                                      <button onclick="uploadActivate()" id="custombtn2" class="upload"><i class="fas fa-paperclip"></i></button>
+                                                </div>
+                                          </div>
+                                          <div class="col-md-12">
+                                                <textarea placeholder="Short Speaker bio" name="" class="form-control" id="" cols="30" rows="5"></textarea>
+                                          </div>
+                                    </div>
+                                    <div class="checkbox_main checkbox_style2 my-4 mb-5">
+
+                                          <label class="container__input">Checkbox
+                                              <input type="checkbox">
+                                              <span class="checkmark"></span>
+                                            </label>
+          
+                                          <label class="container__input">Checkbox
+                                              <input type="checkbox">
+                                              <span class="checkmark"></span>
+                                            </label>
+                                      </div>
+                                      <button type="submit">Submit</button>
+                              </div>
+                        </div>
+                  </form>
+            </div>
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- bootstrap files -->
+    <script src="js/jquery.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/jquery.nice-select.min.js"></script>
+
+    <!-- Main js file -->
+    <script src="js/main.js"></script>
+</body>
+</html>
