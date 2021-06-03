@@ -1,17 +1,24 @@
-# Azzero a Construction Website
+# Ica Summit - 12 pages automobile event website
 
 <br>
 
-<img src="https://github.com/iamsaif6/azzero-v2/blob/master/azzero.gif" width="800px" />
+<img src="https://github.com/iamsaif6/ica-summit/blob/master/ica-summit.gif" width="800px" />
 
-> ## Checkout Homepage : [Click Here](https://iamsaif6.github.io/azzero-v2 "Azzero")
+> ## Checkout Homepage v1 : [Click Here](https://iamsaif6.github.io/ica-summit/ "ICA")
 
-> ### Here are the links for other 4 page :
+> ### Here are the other 11 pages :
 
-- [ Blog Page ](https://iamsaif6.github.io/azzero-v2/blog.html "Azzero")
-- [ Homepage 2 ](https://iamsaif6.github.io/azzero-v2/index2.html "Azzero")
-- [ Service Page ](https://iamsaif6.github.io/azzero-v2/servizi.html "Azzero")
-- [ Socity Page ](https://iamsaif6.github.io/azzero-v2/society.html "Azzero")
+- [ About us ](https://iamsaif6.github.io/ica-summit/about-us.html "ICA")
+- [ Agenda ](https://iamsaif6.github.io/ica-summit/agenda.html "ICA")
+- [ Become Exihibitor ](https://iamsaif6.github.io/ica-summit/become%20a%20exihibitor.html "ICA")
+- [ Become Speaker 2 ](https://iamsaif6.github.io/ica-summit/become%20a%20speaker%202.html "ICA")
+- [ Become Speaker ](https://iamsaif6.github.io/ica-summit/become%20a%20speaker.html "ICA")
+- [ Become Sponser ](https://iamsaif6.github.io/ica-summit/become%20a%20sponser.html "ICA")
+- [ Become Visitor ](https://iamsaif6.github.io/ica-summit/become%20a%20visitor.html "ICA")
+- [ Confirmation ](https://iamsaif6.github.io/ica-summit/confirmation.html "ICA")
+- [ Covid-19 ](https://iamsaif6.github.io/ica-summit/covid-19.html "ICA")
+- [ Partner ](https://iamsaif6.github.io/ica-summit/partner.html "ICA")
+- [ Popup ](https://iamsaif6.github.io/ica-summit/popup.html "ICA")
 
  <br>
 
